@@ -1,0 +1,94 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "images": "virat.jpg",
+      "name": "Virat",
+      "category": "ipl",
+      "desc": "Virat Kohli (Hindi pronunciation born 5 November 1988) is an Indian international cricketer and the former captain of the Indian national cricket team who plays as a right-handed batsman for Royal Challengers Bangalore in the IPL and for the Delhi in Indian domestic cricket.  history of cricket.....",
+      "sdesc": "Virat Kohli (Hindi pronunciation born 5 November 1988) is an Indian international cricketer and the former captain of the Indian national cricket team who plays as a right-handed batsman for Royal Challengers Bangalore in the IPL and for the Delhi in Indian domestic cricket.  history of cricket Virat Kohli (Hindi pronunciation born 5 November 1988) is an Indian international cricketer and the former captain of the Indian national cricket team who plays as a right-handed batsman for Royal Challengers Bangalore in the IPL and for the Delhi in Indian domestic cricket.  history of cricket Virat Kohli (Hindi pronunciation born 5 November 1988) is an Indian international cricketer and the former captain of the Indian national cricket team who plays as a right-handed batsman for Royal Challengers Bangalore in the IPL and for the Delhi in Indian domestic cricket.  history of cricket Virat Kohli (Hindi pronunciation born 5 November 1988) is an Indian international cricketer and the former captain of the Indian national cricket team who plays as a right-handed batsman for Royal Challengers Bangalore in the IPL and for the Delhi in Indian domestic cricket.  history of cricket"
+    },
+    {
+      "id": 2,
+      "images": "hardik.jpg",
+      "name": "Hardik",
+      "category": "ipl",
+      "desc": "Hardik Himanshu Pandya (born 11 October 1993) is an Indian international cricketer who is the current vice-captain of the Indian cricket team in limited overs. An All-rounder who bats right-handed and bowls right-arm fast-medium, Pandya has played in all 3 formats for India.",
+      "sdesc": "Hardik Himanshu Pandya (born 11 October 1993) is an Indian international cricketer who is the current vice-captain of the Indian cricket team in limited overs. An All-rounder who bats right-handed and bowls right-arm fast-medium, Pandya has played in all 3 formats for India. Hardik Himanshu Pandya (born 11 October 1993) is an Indian international cricketer who is the current vice-captain of the Indian cricket team in limited overs. An All-rounder who bats right-handed and bowls right-arm fast-medium, Pandya has played in all 3 formats for India. Hardik Himanshu Pandya (born 11 October 1993) is an Indian international cricketer who is the current vice-captain of the Indian cricket team in limited overs. An All-rounder who bats right-handed and bowls right-arm fast-medium, Pandya has played in all 3 formats for India. Hardik Himanshu Pandya (born 11 October 1993) is an Indian international cricketer who is the current vice-captain of the Indian cricket team in limited overs. An All-rounder who bats right-handed and bowls right-arm fast-medium, Pandya has played in all 3 formats for India."
+    },
+    {
+      "id": 3,
+      "images": "sci-1.webp",
+      "name": "Delta",
+      "category": "science",
+      "desc": "The earliest written records of identifiable predecessors to modern science come from Ancient Egypt and Mesopotamia from around 3000 to 1200 BCE. Their contributions to mathematics, astronomy, and medicine entered and shaped the Greek natural philosophy of classical antiquity",
+      "sdesc": "The earliest written records of identifiable predecessors to modern science come from Ancient Egypt and Mesopotamia from around 3000 to 1200 BCE. Their contributions to mathematics, astronomy, and medicine entered and shaped the Greek natural philosophy of classical antiquity The earliest written records of identifiable predecessors to modern science come from Ancient Egypt and Mesopotamia from around 3000 to 1200 BCE. Their contributions to mathematics, astronomy, and medicine entered and shaped the Greek natural philosophy of classical antiquity The earliest written records of identifiable predecessors to modern science come from Ancient Egypt and Mesopotamia from around 3000 to 1200 BCE. Their contributions to mathematics, astronomy, and medicine entered and shaped the Greek natural philosophy of classical antiquity The earliest written records of identifiable predecessors to modern science come from Ancient Egypt and Mesopotamia from around 3000 to 1200 BCE. Their contributions to mathematics, astronomy, and medicine entered and shaped the Greek natural philosophy of classical antiquity"
+    },
+    {
+      "id": 4,
+      "images": "sci-2.jpg",
+      "name": "Virus",
+      "category": "science",
+      "desc": "whereby formal attempts were made to provide explanations of events in the physical world based on natural causes.[3]: 12 [4] After the fall of the Western Roman Empire, knowledge of Greek conceptions of the world deteriorated in Western Europe during the early centuries (400 to 1000 CE)",
+      "sdesc": "whereby formal attempts were made to provide explanations of events in the physical world based on natural causes.[3]: 12 [4] After the fall of the Western Roman Empire, knowledge of Greek conceptions of the world deteriorated in Western Europe during the early centuries (400 to 1000 CE)whereby formal attempts were made to provide explanations of events in the physical world based on natural causes.[3]: 12 [4] After the fall of the Western Roman Empire, knowledge of Greek conceptions of the world deteriorated in Western Europe during the early centuries (400 to 1000 CE)whereby formal attempts were made to provide explanations of events in the physical world based on natural causes.[3]: 12 [4] After the fall of the Western Roman Empire, knowledge of Greek conceptions of the world deteriorated in Western Europe during the early centuries (400 to 1000 CE)whereby formal attempts were made to provide explanations of events in the physical world based on natural causes.[3]: 12 [4] After the fall of the Western Roman Empire, knowledge of Greek conceptions of the world deteriorated in Western Europe during the early centuries (400 to 1000 CE)"
+    },
+    {
+      "id": 5,
+      "images": "sci-3.jpg",
+      "name": "Medical",
+      "category": "science",
+      "desc": " Muslim world during the Islamic Golden Age[5] and later by the efforts of Byzantine Greek scholars who brought Greek manuscripts from the dying Byzantine EmpireByzantine Greek scholars who brought Greek  to Western Europe in the Renaissance.The recovery and assimilation ",
+      "sdesc": " Muslim world during the Islamic Golden Age[5] and later by the efforts of Byzantine Greek scholars who brought Greek manuscripts from the dying Byzantine EmpireByzantine Greek scholars who brought Greek  to Western Europe in the Renaissance.The recovery and assimilation  Muslim world during the Islamic Golden Age[5] and later by the efforts of Byzantine Greek scholars who brought Greek manuscripts from the dying Byzantine EmpireByzantine Greek scholars who brought Greek  to Western Europe in the Renaissance.The recovery and assimilation  Muslim world during the Islamic Golden Age[5] and later by the efforts of Byzantine Greek scholars who brought Greek manuscripts from the dying Byzantine EmpireByzantine Greek scholars who brought Greek  to Western Europe in the Renaissance.The recovery and assimilation  Muslim world during the Islamic Golden Age[5] and later by the efforts of Byzantine Greek scholars who brought Greek manuscripts from the dying Byzantine EmpireByzantine Greek scholars who brought Greek  to Western Europe in the Renaissance.The recovery and assimilation "
+    },
+    {
+      "id": 6,
+      "images": "hospital.webp",
+      "name": "j.j.shah",
+      "category": "hospital",
+      "desc": "A hospital is a health care institution providing patient treatment with specialized health science and auxiliary healthcare staff and medical equipment.[2] The best-known type of hospital is the general hospital, which typically has an emergency department to treat urgent health illness.",
+      "sdesc": "A hospital is a health care institution providing patient treatment with specialized health science and auxiliary healthcare staff and medical equipment.[2] The best-known type of hospital is the general hospital, which typically has an emergency department to treat urgent health illness.A hospital is a health care institution providing patient treatment with specialized health science and auxiliary healthcare staff and medical equipment.[2] The best-known type of hospital is the general hospital, which typically has an emergency department to treat urgent health illness.A hospital is a health care institution providing patient treatment with specialized health science and auxiliary healthcare staff and medical equipment.[2] The best-known type of hospital is the general hospital, which typically has an emergency department to treat urgent health illness.A hospital is a health care institution providing patient treatment with specialized health science and auxiliary healthcare staff and medical equipment.[2] The best-known type of hospital is the general hospital, which typically has an emergency department to treat urgent health illness.A hospital is a health care institution providing patient treatment with specialized health science and auxiliary healthcare staff and medical equipment.[2] The best-known type of hospital is the general hospital, which typically has an emergency department to treat urgent health illness."
+    },
+    {
+      "id": 7,
+      "images": "motor-1.jpg",
+      "name": "Sport",
+      "category": "motor",
+      "desc": "A motorcycle (motorbike, bike, or trike (if three-wheeled)) is a two or three-wheeled motor vehicle steered by a handlebar from a saddle-style seat.[1][2][3] Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, cruising, sport ",
+      "sdesc": "A motorcycle (motorbike, bike, or trike (if three-wheeled)) is a two or three-wheeled motor vehicle steered by a handlebar from a saddle-style seat.[1][2][3] Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, cruising, sport A motorcycle (motorbike, bike, or trike (if three-wheeled)) is a two or three-wheeled motor vehicle steered by a handlebar from a saddle-style seat.[1][2][3] Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, cruising, sport A motorcycle (motorbike, bike, or trike (if three-wheeled)) is a two or three-wheeled motor vehicle steered by a handlebar from a saddle-style seat.[1][2][3] Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, cruising, sport A motorcycle (motorbike, bike, or trike (if three-wheeled)) is a two or three-wheeled motor vehicle steered by a handlebar from a saddle-style seat.[1][2][3] Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, cruising, sport A motorcycle (motorbike, bike, or trike (if three-wheeled)) is a two or three-wheeled motor vehicle steered by a handlebar from a saddle-style seat.[1][2][3] Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, cruising, sport "
+    },
+    {
+      "id": 8,
+      "images": "motor-2.jpg",
+      "name": "Look Motor-Cycle",
+      "category": "motor",
+      "desc": "A Sport Loook (motorbike, bike, or trike (if three-wheeled)) is a two or three-wheeled motor vehicle steered by a handlebar from a saddle-style seat.[1][2][3] Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, Loooook ",
+      "sdesc": "A Sport Loook (motorbike, bike, or trike (if three-wheeled)) is a two or three-wheeled motor vehicle steered by a handlebar from a saddle-style seat.[1][2][3] Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, LoooookA Sport Loook (motorbike, bike, or trike (if three-wheeled)) is a two or three-wheeled motor vehicle steered by a handlebar from a saddle-style seat.[1][2][3] Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, LoooookA Sport Loook (motorbike, bike, or trike (if three-wheeled)) is a two or three-wheeled motor vehicle steered by a handlebar from a saddle-style seat.[1][2][3] Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, LoooookA Sport Loook (motorbike, bike, or trike (if three-wheeled)) is a two or three-wheeled motor vehicle steered by a handlebar from a saddle-style seat.[1][2][3] Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, LoooookA Sport Loook (motorbike, bike, or trike (if three-wheeled)) is a two or three-wheeled motor vehicle steered by a handlebar from a saddle-style seat.[1][2][3] Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, Loooook"
+    },
+    {
+      "id": 9,
+      "images": "motor-3.jpg",
+      "name": "Fire-Bullet",
+      "category": "motor",
+      "desc": "A Fire Loook (motorbike, bike, or trike (if three-wheeled)) is a two or three-wheeled motor vehicle steered by a handlebar from a saddle-style seat.[1][2][3] Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, Change ",
+      "sdesc": "A Fire Loook (motorbike, bike, or trike (if three-wheeled)) is a two or three-wheeled motor vehicle steered by a handlebar from a saddle-style seat.[1][2][3] Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, ChangeA Fire Loook (motorbike, bike, or trike (if three-wheeled)) is a two or three-wheeled motor vehicle steered by a handlebar from a saddle-style seat.[1][2][3] Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, ChangeA Fire Loook (motorbike, bike, or trike (if three-wheeled)) is a two or three-wheeled motor vehicle steered by a handlebar from a saddle-style seat.[1][2][3] Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, ChangeA Fire Loook (motorbike, bike, or trike (if three-wheeled)) is a two or three-wheeled motor vehicle steered by a handlebar from a saddle-style seat.[1][2][3] Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, ChangeA Fire Loook (motorbike, bike, or trike (if three-wheeled)) is a two or three-wheeled motor vehicle steered by a handlebar from a saddle-style seat.[1][2][3] Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, Change"
+    },
+    {
+      "image": "",
+      "category": "no",
+      "name": "Yash lukhi",
+      "desc": "no",
+      "sdesc": "no",
+      "images": "motor-3.jpg",
+      "id": 10
+    },
+    {
+      "image": "",
+      "category": "wheell",
+      "name": "two wheel",
+      "desc": "caption no ",
+      "sdesc": "no",
+      "images": "motor-3.jpg",
+      "id": 11
+    }
+  ]
+}

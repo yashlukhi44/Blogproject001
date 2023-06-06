@@ -1,0 +1,22 @@
+.img{
+    height: 230px;
+    width: 330px;
+    border-radius: 5px;
+}
+body{
+    background-color: rgba(195, 56, 17, 0.895);
+}
+/* .main{
+    display: flex;
+    align-items: center;
+} */
+.white{
+    color: white;
+}
+.color{
+    background-color: cadetblue;
+}
+.color:hover{
+    background-color: rgb(150, 219, 222);
+    transition: 0.5s all;
+}
